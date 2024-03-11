@@ -4,7 +4,7 @@
 
 This is a python3 script that checks the node's status every minute and prints it to the console.
 
-Original less featureful bash version still available. Instructions [here](https://github.com/sevenminute/Node-Tools/blob/main/README.md)]
+Original less featureful bash version still available. Instructions [here](https://github.com/sevenminute/node-monitor/blob/main/README.md)]
 
 ## Usage
 
@@ -17,7 +17,7 @@ Original less featureful bash version still available. Instructions [here](https
 ## One-Liner
 
 ```bash
-curl https://github.com/sevenminute/Node-Tools/blob/main/python3%20node_height_checker_w_estimate.py | python3
+curl https://github.com/sevenminute/node-monitor/blob/main/python3%20node_height_checker_w_estimate.py | python3
 ```
 
 ## Output Example
